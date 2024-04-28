@@ -1,5 +1,6 @@
 <h1 alingn="center">Conversor de Monedas</h1>
 
+<p>Alura Latam<p>
 <p>Aplicación que busca convertir cualquier moneda a otra moneda, disponible en el Exchange Rate API.</p>
 
 <p>Configuración del Entorno Java</p>
